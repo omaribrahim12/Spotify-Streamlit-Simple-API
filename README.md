@@ -1,3 +1,11 @@
+![ss4](https://github.com/omaribrahim12/Spotify-Streamlit-Simple-API/assets/75176072/d3318bc7-b6f4-438c-b56d-c3c8bbffe4ca)
+![ss3](https://github.com/omaribrahim12/Spotify-Streamlit-Simple-API/assets/75176072/b387b5ba-83f9-415f-9209-ee654b5bf435)
+![ss2](https://github.com/omaribrahim12/Spotify-Streamlit-Simple-API/assets/75176072/9b4ba1b9-32db-4109-8aae-37ed565ce561)
+![ss1](https://github.com/omaribrahim12/Spotify-Streamlit-Simple-API/assets/75176072/4a5ed9fa-45ab-4899-8648-2eca71a0d227)
+
+
+
+
 ## This Python script utilizes the Streamlit framework to create a simple user interface for interacting with the Spotify API. It allows users to perform the following actions:
 
     Search for Top Tracks by Artist: Retrieve the top 10 hits by a given artist.
